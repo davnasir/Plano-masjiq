@@ -37,15 +37,18 @@ p {
 /* end  */
 
 .top-menu{
-  position: absolute;
-  top: 0px;
-
+  position: relative;
+}
+.carousel-fade{
+position: absolute;
+top: 0;
 }
 
-.top-menu .navbar{
-  background: rgba(48, 44, 44, 0.208);
+.navbar{
+  background: rgba(0, 0, 0, 0.5);
   z-index: 9999;
   .nav-link{
   color: #fff;
   }
 }
+
