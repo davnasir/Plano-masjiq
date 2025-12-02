@@ -52,6 +52,7 @@ p {
 .carousel-fade {
   position: absolute;
   top: 0;
+
 }
 
 .navbar {
@@ -61,4 +62,8 @@ p {
   .nav-link {
     color: #fff;
   }
+}
+
+.carousel-item img {
+  justify-content: center;
 }
