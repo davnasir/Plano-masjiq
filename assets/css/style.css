@@ -79,4 +79,9 @@ p {
   font-weight: 600;
 }
 
-..top-menu-social-icon i {}
+.top-menu-social-icon i {
+  color: #fff;
+  border-radius: 50px;
+  border: 1px solid #fff;
+  padding: 10px 20px;
+}
