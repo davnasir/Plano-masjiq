@@ -69,3 +69,11 @@ p {
 .carousel-item img {
   justify-content: center;
 }
+
+
+.top-menu-social-icon button {
+  background: var(--secendery-color);
+  color: #ffff;
+  padding: 10px 20px;
+  border-radius: 50px;
+}
