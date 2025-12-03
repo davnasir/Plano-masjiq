@@ -77,11 +77,18 @@ p {
   padding: 10px 30px;
   border-radius: 50px;
   font-weight: 600;
+  border: none;
+  margin: 5px;
 }
 
 .top-menu-social-icon i {
   color: #fff;
   border-radius: 50px;
   border: 1px solid #fff;
-  padding: 10px 20px;
+  padding: 11px 18px;
+  display: inline-flex;
+  font-size: 13px;
+  justify-content: center;
+  align-items: center;
+  margin: 3px;
 }
